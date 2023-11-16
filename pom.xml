@@ -36,7 +36,7 @@
     <httpcomponents.version>4.5.14</httpcomponents.version>
     <jitsiGeneralGroupId>org.jitsi</jitsiGeneralGroupId>
     <!-- keep this empty default for Linux builds -->
-    <jitsi-deps-arch></jitsi-deps-arch>
+    <jitsi-deps-arch/>
   </properties>
 
   <dependencies>
@@ -100,7 +100,7 @@
       </dependency>
       <dependency><groupId>org.hsqldb</groupId><artifactId>hsqldb</artifactId><version>2.7.2</version></dependency>
       <dependency><groupId>org.jitsi</groupId><artifactId>ice4j</artifactId><version>3.0-62-ga947919</version></dependency>
-      <dependency><groupId>org.jitsi</groupId><artifactId>jitsi-utils</artifactId><version>1.0-126-g02b0c86</version></dependency>
+      <dependency><groupId>org.jitsi</groupId><artifactId>jitsi-utils</artifactId><version>1.0-99-gf60ac15</version></dependency>
       <dependency><groupId>org.jitsi</groupId><artifactId>jitsi-xmpp-extensions</artifactId><version>1.0-72-gc9dde6c</version></dependency>
       <dependency>
         <groupId>org.jitsi</groupId>
